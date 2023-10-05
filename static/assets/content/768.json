@@ -13,9 +13,7 @@
             "slides": [
                 { "media": { "type": "image", "src": "assets/images/Numbers/01.png" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 288 } } },
                 { "media": { "type": "image", "src": "assets/images/Numbers/02.png" }, "mode": { "type": "large", "repeat": false, "imageSize": { "width": 512, "height": 768 } } },
-                { "media": { "type": "image", "src": "assets/images/Numbers/03.png" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 341, "height": 512 } } },
-             { "media": { "type": "video", "url": "assets/videos/yup1.mp4", "src": "assets/images/768x768/yup1-thumbnail-512x341-0001.png" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 341 } } }
-
+                { "media": { "type": "image", "src": "assets/images/Numbers/03.png" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 341, "height": 512 } } }
             ]
         }
     ]
