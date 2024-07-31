@@ -26,7 +26,6 @@ let max = numbers[0];
     let t = await fetch(`assets/content/${max}.json`)
         .then(r => r.json())
         .then(e => {
-console.log(e,"Nihallleee")
             root.render(<App {...e}/>);
 
          })
